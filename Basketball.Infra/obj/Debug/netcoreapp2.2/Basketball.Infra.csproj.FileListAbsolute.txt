@@ -1,0 +1,9 @@
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\bin\Debug\netcoreapp2.2\Basketball.Infra.deps.json
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\bin\Debug\netcoreapp2.2\Basketball.Infra.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.csprojAssemblyReference.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.csproj.CoreCompileInputs.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.AssemblyInfoInputs.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.AssemblyInfo.cs
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\bin\Debug\netcoreapp2.2\Basketball.Infra.pdb
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Infra\obj\Debug\netcoreapp2.2\Basketball.Infra.pdb

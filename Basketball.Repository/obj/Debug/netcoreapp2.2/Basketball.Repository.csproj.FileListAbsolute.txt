@@ -1,0 +1,16 @@
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Infra.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Model.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.AssemblyInfoInputs.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.AssemblyInfo.cs
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.csprojAssemblyReference.cache
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Repository.deps.json
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Repository.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Repository.pdb
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Infra.pdb
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\Basketball.Model.pdb
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.csproj.CopyComplete
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\obj\Debug\netcoreapp2.2\Basketball.Repository.pdb
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+D:\Projects\Basketball.API\Basketball.Api\Basketball.Repository\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
