@@ -13,3 +13,5 @@ ORM Dapper
 Testes unitários MSTest com Moq
 
 Linq para manipulação de listas
+
+OBSERVAÇÃO: O script do banco local utilizado na aplicação está anexado na seção ISSUES. Para utilizá-lo, basta baixar o arquivo zipado, extraí-lo exportá-lo na aplicação, diretamente no visual studio, nomeando o banco como BasketballBD.
