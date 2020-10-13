@@ -4,6 +4,8 @@ Tecnologias utilizadas:
 
 Linguagem C# com .NET CORE 2.2
 
+API Rest
+
 Estrutura MVC
 
 Injeção de dependência AUTOFAC (com interfaces)
